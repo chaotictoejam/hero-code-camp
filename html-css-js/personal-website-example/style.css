@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+
+    /* Font */
+    font-family: sans-serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+
+.main {
+    width: 80%;
+    align: center;
+}
+
+.about {
+    background-color: black;
+
+    /* Text styles */
+    text-align: center;
+    color: rgb(147, 112, 219);
+
+    /* Padding */
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
